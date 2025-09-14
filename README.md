@@ -28,8 +28,11 @@ Core features implemented:
    I used SPM Swift Packages, ensure they resolve.
 5. Run on iOS Simulator.
 
+## Demo Preview
+<img width="1407" height="770" alt="HorizonProtoType_demo-screenshot" src="https://github.com/user-attachments/assets/62be4f87-eb65-4bd9-bdd7-d7a12d29be29" />
 
-Contact
+
+**Contact**
 Name: Pallakumar
 GitHub: github.com/pallakumar/HorizonSphere_FireBase
 LinkedIn profile: https://www.linkedin.com/in/palla-kumar-a1a47848/
