@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "HorizonProtoType_demo-screenshot.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
